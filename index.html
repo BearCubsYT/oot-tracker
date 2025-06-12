@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ocarina 100% Checklist</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="top-buttons">
+    <button id="reset-button" class="red-button">Reset</button>
+    <button id="items-button" class="blue-button" onclick="window.location.href='item-tracker.html'">Items</button>
+  </div>
+
+  <div class="progress-bar-container">
+    <div class="progress-fill" style="width: 0%"></div>
+    <div class="progress-text">0.00%</div>
+  </div>
+
+  <div class="controls">
+    <button id="prev-section">◀ Previous</button>
+    <select id="section-select"></select>
+    <button id="next-section">Next ▶</button>
+  </div>
+
+  <div id="checklist-container"></div>
+  <script src="script.js"></script>
+</body>
+</html>

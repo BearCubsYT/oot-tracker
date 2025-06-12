@@ -1,0 +1,934 @@
+{
+  "🌲 Kokiri Forest": {
+    "🗡️ Items": [
+      "Kokiri Sword: Thru Tunnel Behind Training Area",
+      "Deku Shield: Item Shop for 40 Rupees",
+      "Deku Stick"
+    ]
+  },
+  "🌳 Great Deku Tree": {
+    "🗡️ Items": [
+      "Deku Nut"
+    ],
+    "🗺️ Dungeon Items": [
+      "Map",
+      "Fairy Slingshot",
+      "Deku Seed",
+      "Compass"
+    ],
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 1: In Compass Room",
+      "Gold Skulltula 2: Lower Level on Vines",
+      "Gold Skulltula 3: Lower Level on Grates"
+    ],
+    "❤️ Heart Containers": [
+      "Heart Container: Defeat Queen Ghoma"
+    ]
+  },
+  "🌲 Kokiri Forest (post: Deku Tree)": {
+    "📖 Story Progression": [
+      "Kokiri's Emerald: The Great Deku Tree Gives It to You After You Exit the Dungeon",
+      "Fairy Ocarina: While Leaving Kokiri Forest Speak with Saria"
+    ]
+  },
+  "🏰 Hyrule Castle Market": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 4: In Crate in the Guardhouse with All the Jars"
+    ]
+  },
+  "🏰 Hyrule Castle": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 5: First Tree in Area"
+    ],
+    "🗡️ Items": [
+      "Weird Egg: Try to Get Into Castle, Get Caught, Then Talk to Malon",
+      "Chicken: Wait Overnight for the Egg to Hatch",
+      "Zelda's Letter: Speak with Princess Zelda"
+    ],
+    "🎵 Songs": [
+      "Zelda's Lullaby: Speak with Impa Before Heading to Kakariko"
+    ]
+  },
+  "🏘️ Kakariko Village: Graveyard": {
+    "🎵 Songs": [
+      "Sun's Song: Learn Inside the Royal Tomb"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Piece : Inside Grave 4th from the Right in the Row Close to the Royal Tomb"
+    ],
+    "🗡️ Items": [
+      "Hylian Shield: Inside Grave 2nd from the Left (three Flowers in Front) in the Front Row"
+    ]
+  },
+  "🐴 Lon Lon Ranch": {
+    "🍼 Bottles": [
+      "Bottle 1: Win Talon's Mini: Game (cost is 10 Rupees)"
+    ],
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 6: Tree on Left Behind Farm Buildings",
+      "Gold Skulltula 7: Behind the Feeding Trough at the Far End of the Corral (night)"
+    ],
+    "🎵 Songs": [
+      "Epona's Song: Show Malon Your Ocarina ;)"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Piece 2: Inside Silo, Thru Tunnel Behind the Crates"
+    ]
+  },
+  "🌲 Kokiri Forest (night)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 8: Back of the Know: It: All: Brother's House (night)"
+    ]
+  },
+  "🌲 Lost Woods (first Visit)": {
+    "🗡️ Items": [
+      "Deku Seed Bullet Bag: From the Entrance Go Right and Shoot the “target” Thing 3x (score 100 Each Time)"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Piece 3: Play the Follow: Along Mini: Game (stand on the Stump in the Same Area and Use Ocarina)"
+    ]
+  },
+  "🌳 Sacred Forest Meadow": {
+    "🎵 Songs": [
+      "Saria's Song: Speak with Saria After Navigating the Lost Woods"
+    ]
+  },
+  "🌲 Lost Woods (second Visit)": {
+    "❤️ Heart Pieces": [
+      "Heart Piece 4: Enter the Lost Woods Again from the Start, Go Left, and Play Saria's Song for the Skull Kid"
+    ],
+    "🗡️ Upgrades": [
+      "Deku S(ck Upgrade (carry 20): Go Left Again (from Previous Area) and Buy from the Business Scrub"
+    ]
+  },
+  "🏘️ Kakariko Village: Cuccos": {
+    "🍼 Bottles": [
+      "Bottle 2: Round Up the Cuccos"
+    ]
+  },
+  "🏘️ Kakariko Village: Graveyard (bugs)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 9: Put Bugs in the Hole in the Graveyard"
+    ]
+  },
+  "🏘️ Kakariko Village (night)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 10: On Unfinished Wall Near Construction Area (night)",
+      "Gold Skulltula 11: On Side of the Skulltula House (night)",
+      "Gold Skulltula 12: Tree in Center of Village (night)",
+      "Gold Skulltula 13: On Ladder of Lookout Tower (night)",
+      "Gold Skulltula 14: Side of Building Nearest Death Mountain (night)"
+    ],
+    "🗡️ Rewards": [
+      "Adult Wallet: First Prize for Collecting Skulltula Tokens"
+    ],
+    "📖 Story Progression": [
+      "Get the Happy Mask Shop to Open by Giving the Guard Zelda's Letter"
+    ]
+  },
+  "🏰 Hyrule Castle Market: Mask Shop": {
+    "☺️ Masks": [
+      "Keaton Mask: Get from the Happy Mask Shop (10 Rupees)"
+    ]
+  },
+  "🏘️ Kakariko Village: Guard Mask": {
+    "☺️ Masks": [
+      "Give Keaton Mask to Guard"
+    ]
+  },
+  "🏙️ Goron City": {
+    "🗡️ Items": [
+      "Goron's Bracelet: Play Saria's Song for Darunia"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Piece 5: Light Torches to Get the Thing Spinning, Then Throw a Bombflower in It (needs to Be Smiling)"
+    ]
+  },
+  "🪨 Dodongo's Cavern": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 15: Blow Up Wall in the Corridor with the Baby Dodongos (right Half of Dungeon)",
+      "Gold Skulltula 16: After Bombing Stairs, Go Up and Circle Around to Find It on the Vines",
+      "Gold Skulltula 17: Blow Up Wall on Ledge, Fight an Armos Statue"
+    ],
+    "🗺️ Dungeon Items": [
+      "Map",
+      "Compass",
+      "Bomb Bag"
+    ],
+    "❤️ Heart Containers": [
+      "Heart Container: Defeat King Dodongo"
+    ]
+  },
+  "🌋 Death Mountain": {
+    "📖 Story Progression": [
+      "Goron's Ruby: Darunia Gives It to You After Exiting Dodongo's Cavern"
+    ],
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 18: Put Bugs in the Hole Near the Entrance to Dodongo's Cavern"
+    ]
+  },
+  "🏙️ Goron City (upgrades)": {
+    "🗡️ Items": [
+      "Big Bomb Bag: Blow Up the Rolling Goron as He Goes Thru the Cave: Like Area"
+    ],
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 19: In Crate in the Northwest Upper Corner in the Room Full of Rocks."
+    ]
+  },
+  "🌋 Death Mountain Crater": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 20: Go in Opening on Right Near Fairy Fountain and Destroy the Crate"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Piece 6: Exit the Crater & Re: Enter, Run to Cliff, Climb Down, Find It in Cubby Hole (jump Into Lava to Exit)"
+    ]
+  },
+  "🧚 Death Mountain (fairy)": {
+    "□ Magic": [
+      "Spin Attack: Blow Up Wall Near Owl to Find a Great Fairy"
+    ]
+  },
+  "🏘️ Kakariko Village (owl Ride)": {
+    "❤️ Heart Pieces": [
+      "Heart Piece 7: Take Owl Down from Death Mountain, Go Into Upper Room of Cucco Lady's House"
+    ],
+    "🗡️ Rewards": [
+      "Stone of Agony (shard of Agony on 3ds): Second Prize for Skulltula Tokens"
+    ]
+  },
+  "🏰 Hyrule Castle Market (minigames)": {
+    "🗡️ Upgrades": [
+      "Deku Seeds Bullet Bag Upgrade (carry 50): Win the Shooting Gallery Mini: Game (20 Rupees)",
+      "Biggest Bomb Bag (carry 40): Win from Bombchu Mini: Game (30 Rupees)"
+    ],
+    "🗡️ Items": [
+      "Bombchus: Win from Bombchu Mini: Game (30 Rupees)"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Piece 8: Win from Bombchu Mini: Game (30 Rupees)",
+      "Heart Piece 9: Go to Vendor Stand at Night, Touch White Puppy, Go to Back Alley, Bring Into Open Door"
+    ],
+    "☺️ Masks": [
+      "Skull Mask: Turn in the Money from the Keaton Mask (20 Rupees)"
+    ]
+  },
+  "🏰 Hyrule Castle: Fairy": {
+    "□ Magic": [
+      "Din's Fire: Great Fairy of Magic Gives It to You"
+    ]
+  },
+  "🌊 Zora's River (first Visit)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 21: Roll Into Tree After Talking with Owl",
+      "Gold Skulltula 22: On Ladder (night)"
+    ],
+    "🗡️ Items": [
+      "Magic Beans: Buy at Least 3 from the Fat Guy",
+      "Plant Bean Near Fat Guy"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Piece 10: Jump at Platform with Cucco",
+      "Heart Piece 11: Get to Highest Area with Cucco and Jump to It"
+    ]
+  },
+  "🐟 Zora's Domain": {
+    "❤️ Heart Pieces": [
+      "Heart Piece 12: Light All 5 Torches"
+    ],
+    "🗡️ Items": [
+      "Silver Scale: Win Diving Game (20 Rupees)"
+    ]
+  },
+  "🏞️ Lake Hylia (first Visit)": {
+    "🍼 Bottles": [
+      "Bottle 3: In Water Near Stone Pillars"
+    ],
+    "🎵 Songs": [
+      "Scarecrow Song: Play a Song for Bonooru (and Remember It!!)"
+    ],
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 23: Plant Bugs Near Lakeside Laboratory",
+      "Gold Skulltula 24: Out on Far Island (night)"
+    ],
+    "🗡️ Items": [
+      "Plant Magic Bean Next to Lakeside Laboratory"
+    ]
+  },
+  "🎣 Fishing Pond": {
+    "❤️ Heart Pieces": [
+      "Heart Piece 13: Catch the Biggest Fish at the Fishing Pond (near Arched Log with 3 Branches Sticking Out)"
+    ]
+  },
+  "🐟 Jabu: Jabu's Belly": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 25: In Room with Water Level That Goes Up and Down",
+      "Gold Skulltula 26: Fall Thru Hole Furthest to the Left",
+      "Gold Skulltula 27: Same Area as 26",
+      "Gold Skulltula 28: On Vines in the Room Before the Boss"
+    ],
+    "🗺️ Dungeon Items": [
+      "Boomerang",
+      "Map",
+      "Compass"
+    ],
+    "❤️ Heart Containers": [
+      "Heart Container: Defeat Barinade"
+    ]
+  },
+  "⛲ Zora's Fountain": {
+    "📖 Story Progression": [
+      "Zora's Sapphire: Obtained from Ruto After Exiting the Dungeon"
+    ],
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 29: Roll Into Tree in Corner",
+      "Gold Skulltula 30: On Wall Near Log That Arches Out of Water (night)"
+    ],
+    "□ Magic": [
+      "Farore's Wind: Get from Great Fairy (blow Up Wall)"
+    ]
+  },
+  "🌊 Zora's River (beans Return)": {
+    "🗡️ Items": [
+      "Buy More Beans"
+    ]
+  },
+  "🌲 Lost Woods (upgrades & Masks)": {
+    "🗡️ Upgrades": [
+      "Deku S(ck Upgrade (carry 30): From the Start, Go R, L, R, L, L and Down Hole Towards the Back (wear Skull Mask)"
+    ],
+    "☺️ Masks": [
+      "Give Skull Mask to Skull Kid: From Start, Go Left"
+    ]
+  },
+  "🌾 Hyrule Field (story Progress)": {
+    "🎵 Songs": [
+      "Ocarina of Time: Zelda Tosses It Into the Moat as She's Chased Off by Ganon",
+      "Song of Time: When You Get the Ocarina of Time, You Learn This"
+    ]
+  },
+  "🏰 Hyrule Castle Market (spooky Mask)": {
+    "☺️ Masks": [
+      "Spooky Mask: Turn in Money from Skull Mask (30 Rupees)"
+    ]
+  },
+  "🌙 Lon Lon Ranch (night)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 31: Upper Window of Farm House (night)",
+      "Gold Skulltula 32: Near the Silo in the Corner on the Wall (night)"
+    ]
+  },
+  "🌾 Hyrule Field (skulltula Bomb)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 33: Near the Kakariko Entrance, There's a Tree on the Far Left. Put a Bomb Behind It."
+    ]
+  },
+  "🏘️ Kakariko Village (wallet & Graveyard)": {
+    "🗡️ Rewards": [
+      "Giant's Wallet: Prize for Gold Skulltula Tokens"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Piece 14: Between 18:00 and 21:00, Pay Dampe to Dig in the Graveyard (10 Rupees)"
+    ],
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 34: Upper Wall on the Right (night)"
+    ],
+    "🗡️ Items": [
+      "Plant Magic Bean"
+    ],
+    "☺️ Masks": [
+      "Give Spooky Mask to Kid"
+    ]
+  },
+  "🌊 Zora's River (beans Again)": {
+    "🗡️ Items": [
+      "Buy More Beans"
+    ]
+  },
+  "🏰 Hyrule Castle Market (bunny Hood)": {
+    "☺️ Masks": [
+      "Bunny Hood: Turn in Money from Spooky Mask (50 Rupees)"
+    ]
+  },
+  "🌾 Hyrule Field (running Man)": {
+    "☺️ Masks": [
+      "Give Bunny Hood to Running Man: Exit Market, Go Right. When You Pass Lon Lon You'll See Him (night)"
+    ]
+  },
+  "🏰 Hyrule Castle Market (mask of Truth)": {
+    "☺️ Masks": [
+      "Mask of Truth: Turn in the Money from the Bunny Hood. (also Gets Zora, Gerudo, and Goron Masks)"
+    ]
+  },
+  "🌋 Death Mountain (skulltula & Bean)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 35: Blow Up Wall on Trail (requires Boomerang)"
+    ],
+    "🗡️ Items": [
+      "Plant Magic Bean Near Entrance to Dodongo's Cavern"
+    ]
+  },
+  "🌳 Great Deku Tree (return)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 36: Drop Down Hole, Go Up Shortcut Block, Go Thru Tunnel, Blow Up Wall"
+    ]
+  },
+  "🌲 Kokiri Forest (bugs & Bean)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 37: Plant Bugs Behind the Shop"
+    ],
+    "🗡️ Items": [
+      "Plant Magic Bean"
+    ]
+  },
+  "🌲 Lost Woods (bugs, Beans, Upgrades)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 38: Enter the Lost Woods, Go Left Twice, Plant Bugs",
+      "Gold Skulltula 39: Enter the Lost Woods, Go R, L, R, L, L, Plant Bugs"
+    ],
+    "🗡️ Items": [
+      "Plant Magic Bean"
+    ],
+    "🗡️ Upgrades": [
+      "Deku Nut Upgrade (carry 30): From Start, Go R, L, R, L, Straight, L, Blow Up Boulder (40 Rupees)",
+      "Deku Nut Upgrade (carry 40): From Start, Go R, L, R, L, L & Fall Down Hole in Back (wear Mask of Truth)"
+    ]
+  },
+  "🌾 Hyrule Field (heart Piece Bomb)": {
+    "❤️ Heart Pieces": [
+      "Heart Piece 15: Near Lake Hylia Entrance, Bomb the Center of the Fenced Area (10 Rupees)"
+    ]
+  },
+  "🏞️ Lake Hylia (night & Fishing)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 40: Back of the Lakeside Laboratory (night)"
+    ]
+  },
+  "🌾 Hyrule Field (near Gerudo)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 41: Near the Gerudo Valley Entrance, Bomb the Circle of Stones"
+    ]
+  },
+  "🏞️ Gerudo Valley (night, Cucco, Bean)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 42: Near the Small Waterfall Near the Bridge (night)",
+      "Gold Skulltula 43: Swim to the Nearby Platform with a Woman & Cow, Plant Bugs"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Piece 16: Get Cucco and Glide Off the Right Side of the Bridge Thru the Waterfall (or Use Ladder)",
+      "Heart Piece 17: Get Cucco and Glide Off the Left Side of the Bridge & Destroy Crate"
+    ],
+    "🗡️ Items": [
+      "Plant Magic Bean"
+    ]
+  },
+  "🏛️ Temple of Time (story)": {
+    "📖 Story Progression": [
+      "Master Sword: Pull from the Pedestal"
+    ]
+  },
+  "🏛️ Temple of Time (future Story)": {
+    "📖 Story Progression": [
+      "Light Medallion: Given to You by the Sage of Light, Rauru, in the Future"
+    ]
+  },
+  "🐴 Lon Lon Ranch (epona)": {
+    "🗡️ Items": [
+      "Epona: Play Epona's Song, Talk to Ingo While on Epona, Beat Ingo at the Race, Then Jump the Fence"
+    ]
+  },
+  "⚰️ Kakariko Graveyard (hookshot & Bean)": {
+    "❤️ Heart Pieces": [
+      "Heart Piece 18: Use the Magic Bean You Planted"
+    ],
+    "🗡️ Items": [
+      "Pocket Cucco: Speak with the Cucco Lady",
+      "Hookshot: Pull Grave with Flowers Near Magic Bean, Fall Down Hole and Follow Dampe"
+    ]
+  },
+  "🏘️ Kakariko Village (windmill)": {
+    "❤️ Heart Pieces": [
+      "Heart Piece 19: Inside Windmill Near Top",
+      "Song of Storms: Show the Ocarina to Guru Guru in the Windmill"
+    ],
+    "🗡️ Items": [
+      "Pocket Cucco: Speak with the Cucco Lady"
+    ],
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 44: On Roof of Southernmost House (hookshot to Skulltula House First, Night)"
+    ]
+  },
+  "🏰 Ganon's Castle Grounds": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 45: Near the Remains of the Stone Arch"
+    ]
+  },
+  "🌲 Kokiri Forest (twin's House)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 46: On the Twin's House (night)"
+    ]
+  },
+  "🌳 Lost Woods (meadow Skulltula)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 47: In the Meadow in the Center, Use the Magic Bean Plant (night)"
+    ]
+  },
+  "🌳 Sacred Forest Meadow (future)": {
+    "🎵 Songs": [
+      "Minuet of Forest: Sheik Teaches It to You"
+    ],
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 48: On a Wall Up High Right Before the Club Moblin (night)"
+    ]
+  },
+  "🏛️ Forest Temple": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 49: Entrance Room of the Temple Up High on the Vines",
+      "Gold Skulltula 50: Main Room, Standing in Front of the Door Opposite the Entrance, Turn Right",
+      "Gold Skulltula 51: Room Open to Outside, on the Side of a Wall on a Ledge",
+      "Gold Skulltula 52: Return to ‘outside' Room Again Only This Time on Upper Ledge, Jump Down to Pillars",
+      "Gold Skulltula 53: In One of the Tan Alcoves in the Turning Room"
+    ],
+    "🗺️ Dungeon Items": [
+      "Map",
+      "Compass",
+      "Fairy Bow"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Container: Defeat Phantom Ganon"
+    ]
+  },
+  "🏛️ Temple of Light (forest Medallion)": {
+    "📖 Story Progression": [
+      "Forest Medallion: After Defeating Phantom Ganon, Saria Gives This to You"
+    ]
+  },
+  "🏛️ Temple of Time (prelude)": {
+    "🎵 Songs": [
+      "Prelude of Light: Sheik Teaches It to You"
+    ]
+  },
+  "🏞️ Lake Hylia (scarecrow Reminder)": {
+    "🎵 Songs": [
+      "Play the Scarecrow Song for the Scarecrow Again"
+    ]
+  },
+  "🏘️ Kakariko Village (shooting Gallery Prize)": {
+    "❤️ Heart Pieces": [
+      "Heart Piece 20: Prize for 50 Skulltula Tokens"
+    ],
+    "🗡️ Upgrades": [
+      "Big Quiver (carry 40): Win from Shooting Gallery (20 Rupees)"
+    ]
+  },
+  "🥾 Death Mountain Trail (magic Bean)": {
+    "❤️ Heart Pieces": [
+      "Heart Piece 21: Use Magic Bean at the Entrance to Dogongo's Cavern"
+    ]
+  },
+  "🪨 Dodongo's Cavern (return)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 54: In the Bombflower Stairs Room, Enter from the Other Direction to Get to Hidden Alcove",
+      "Gold Skulltula 55: Skinny Room with Baby Dodongos, Use the Scarecrow's Song When Navi Goes Up Top"
+    ]
+  },
+  "🏙️ Goron City (future)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 56: On Pedestal Suspended by Ropes, Skulltula is on the Backside"
+    ],
+    "🗡️ Items": [
+      "Goron's Tunic: Blow Up the Rolling Around Goron & Listen to His Stories"
+    ]
+  },
+  "🌋 Death Mountain Crater (bolero & Skulltula)": {
+    "🎵 Songs": [
+      "Bolero of Fire: Cross the Broken Bridge & Sheik Teaches It to You"
+    ],
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 57: (past) Plant Bugs Near the Teleport Platform"
+    ],
+    "🗡️ Items": [
+      "Plant Magic Bean (past)"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Piece 22: (future) Ride the Magic Bean Plant"
+    ]
+  },
+  "🏛️ Fire Temple": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 58: Room with Bridge and Lava, There's a Time Block Above Door on Left",
+      "Gold Skulltula 59: Along Outside Wall of Boulder Maze There's a Small Alcove with a Triangle Overhang (bomb)",
+      "Gold Skulltula 60: Use Scarecrow Song Near Entrance to Boulder Maze Room Up High When Navi Flies Up",
+      "Gold Skulltula 61: Go Left in Next Room and Its on the Wall",
+      "Gold Skulltula 62: In 2nd Tile Room"
+    ],
+    "🗺️ Dungeon Items": [
+      "Map",
+      "Compass",
+      "Megaton Hammer"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Container: Defeat Volvagia"
+    ]
+  },
+  "🏛️ Temple of Light (fire Medallion)": {
+    "📖 Story Progression": [
+      "Fire Medallion: Get After Defeating Volvagia from Darunia"
+    ]
+  },
+  "🌋 Death Mountain Crater (magic Upgrade)": {
+    "🗡️ Upgrades": [
+      "Magic Meter Upgrade: Left Across Bridge, Keep Going Left, Break Red Boulders with Hammer"
+    ]
+  },
+  "🥾 Death Mountain Trail (future Skulltulas)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 63: In Valley Where Flaming Rocks Rained Down Before on Wall (night)",
+      "Gold Skulltula 64: Break the Red Boulder Near the Entrance to Goron City (night)"
+    ]
+  },
+  "🏰 Hyrule Castle Market (poe Shop)": {
+    "📖 Story Progression": [
+      "Talk to the Poe Shop Guy (in the Old Guardhouse)"
+    ]
+  },
+  "🌾 Hyrule Field (poes)": {
+    "📖 Story Progression": [
+      "Poe 1: Pass the Sign Near the Entrance to the Hyrule Market",
+      "Poe 2: Pass by the Tree Near the Entrance to Lon Lon Ranch (between Tree & Wall)",
+      "Poe 3: Northwest Corner of Hyrule Field Near Stream (one of the Bushes Triggers It)",
+      "Poe 4: Between Lon Lon and Entrance to Gerudo is a Lone Tree (face the Castle and Go on Right)",
+      "Poe 5: Near Gerudo Entrance Where Road Forks (go Between Road and Wall, Try to Get Him to Go Thru Hole)",
+      "Poe 6: Between Lake Hylia and Kokiri Forest Are Tons of Trees. Find a Patch of Bushes and Run Thru",
+      "Poe 7: Between Lake Hylia and Kokiri Forest is a Lone Boulder. Go Near Tree Directly South of the Boulder",
+      "Poe 8: Between Kokiri Forest and Lon Lon Ranch is a Silver Boulder. Stand in the “y” of the Road Facing It.",
+      "Poe 9: Wait in the Corner of the V Shaped Wall West of Lon Lon Ranch",
+      "Poe 10: Near Entrance to Kakariko Village is an Overhang Above the Stream"
+    ]
+  },
+  "🏰 Hyrule Castle Market (final Poe Bottle)": {
+    "🍼 Bottles": [
+      "Bottle 4: Turn in Poes"
+    ]
+  },
+  "🌊 Zora's River (late Game)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 65: Ride Magic Bean Plant and Jump Off on the Giant Platform Asap (on Wall) (night)",
+      "Gold Skulltula 66: When the Camera Angle Swivels, Turn Towards the Outside Wall, Stand on Fence (night)"
+    ]
+  },
+  "🐟 Zora's Domain (waterfall Skulltula)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 67: Near Top of Waterfall (night)"
+    ]
+  },
+  "⛲ Zora's Fountain (ice Platform Heart Piece)": {
+    "❤️ Heart Pieces": [
+      "Heart Piece 23: On One of the Ice Platforms"
+    ]
+  },
+  "🪨 Ice Cavern": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 68: Above the First Silver Rupee",
+      "Gold Skulltula 69: In Compass Room Up High on a Pillar",
+      "Gold Skulltula 70: On Wall in the Room Where You Push Around the Ice Block"
+    ],
+    "🗺️ Dungeon Items": [
+      "Map",
+      "Compass"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Piece 24: In the Compass Room in Red Ice"
+    ],
+    "🗡️ Items": [
+      "Iron Boots"
+    ],
+    "🎵 Songs": [
+      "Serenade of Water: Sheik Will Teach It to You After You Get the Boots."
+    ]
+  },
+  "🐟 Zora's Domain (king Zora)": {
+    "🗡️ Items": [
+      "Zora's Tunic: Use Blue Fire to Melt the Ice on King Zora & He'll Give It to You"
+    ]
+  },
+  "⛲ Zora's Fountain (bottom Heart Piece)": {
+    "❤️ Heart Pieces": [
+      "Heart Piece 25: At the Bottom of the ‘fountain'"
+    ]
+  },
+  "🏘️ Kakariko Village (trading Start)": {
+    "📖 Story Progression": [
+      "Cojiro: Hatch Egg, Wake Up Talon (house Below Stairs Across from Skulltula), Speak with Cucco Lady"
+    ]
+  },
+  "🌲 Lost Woods (cojiro Trade)": {
+    "📖 Story Progression": [
+      "Odd Mushroom: From Entrance Go Left and Give the Guy Cojiro"
+    ]
+  },
+  "🏘️ Kakariko Village (potion Shop)": {
+    "📖 Story Progression": [
+      "Odd Potion: Last Building on Right, Go Thru Back Door of Potion Shop, Jump Down, Go Up Ramp"
+    ]
+  },
+  "🌲 Lost Woods (poacher's Saw)": {
+    "📖 Story Progression": [
+      "Poacher's Saw: Give the Odd Potion to the Kokiri Girl"
+    ]
+  },
+  "🏞️ Gerudo Valley (broken Sword)": {
+    "📖 Story Progression": [
+      "Broken Biggoron's Sword: Cross the Bridge, Speak with Fat Guy"
+    ]
+  },
+  "🌋 Death Mountain (prescription)": {
+    "📖 Story Progression": [
+      "Prescrip(on: Give the Broke Biggoron Sword to Biggoron"
+    ]
+  },
+  "🐟 Zora's Domain (eyeball Frog)": {
+    "📖 Story Progression": [
+      "Eyeball Frog: Talk to King Zora"
+    ]
+  },
+  "🏞️ Lake Hylia (eye Drops)": {
+    "📖 Story Progression": [
+      "World's Finest Eye Drops: Give the Eyeball Frog to the Scientist in the Lakeside Laboratory"
+    ]
+  },
+  "🌋 Death Mountain (claim Check & Sword)": {
+    "📖 Story Progression": [
+      "Claim Check: Hastily Get Back to Biggoron (use Magic Bean Plant) and Give Him Eye Drops",
+      "Biggoron's Sword: Wait a Few Days and Speak with Biggoron"
+    ]
+  },
+  "🌾 Hyrule Field (lon Lon Heart Piece)": {
+    "❤️ Heart Pieces": [
+      "Heart Piece 26: Northwest Corner, Tree Closest to Lon Lon Plant a Bomb"
+    ]
+  },
+  "🏞️ Lake Hylia (magic Bean & Skulltula)": {
+    "❤️ Heart Pieces": [
+      "Heart Piece 27: Use Magic Bean Plant Next to Laboratory (or Scarecrow Song)"
+    ],
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 71: In the Crate, in the Tank, in Lakeside Laboratory"
+    ]
+  },
+  "🏛️ Water Temple": {
+    "🗺️ Dungeon Items": [
+      "Map",
+      "Compass",
+      "Longshot"
+    ],
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 72: Near the Crystal Switch",
+      "Gold Skulltula 73: After the First Vortex on the Wall (use Longshot)",
+      "Gold Skulltula 74: 3rd Floor Room with Moving Platforms (use Longshot)",
+      "Gold Skulltula 75: Bottom of Main Room, Go Thru East Corridor, Change Water to Bottom, Enter Center Pillar",
+      "Gold Skulltula 76: Up in Area Where the Boulders Come from"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Container: Defeat Morpha"
+    ]
+  },
+  "🏛️ Temple of Light (water Medallion)": {
+    "📖 Story Progression": [
+      "Water Medallion: Receive from Ruto"
+    ]
+  },
+  "🏞️ Lake Hylia (extras)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 77: On Top of Tree on Island at Night (use Longshot)"
+    ],
+    "🗡️ Items": [
+      "Fire Arrows: Shoot an Arrow Into the Morning Sun from the Brown Platform"
+    ]
+  },
+  "🎣 Fishing Pond (extras)": {
+    "🗡️ Items": [
+      "Golden Scale: Catch the Largest Fish (15lbs+)",
+      "Sinking Lure: Find Along the Wall, or Possibly by the Small Stream",
+      "Catch Hylian Loach for Bragging Rights"
+    ]
+  },
+  "🏞️ Lake Hylia (lakeside Lab Heart Piece)": {
+    "❤️ Heart Pieces": [
+      "Heart Piece 28: Dive to Bottom of Lakeside Laboratory and the Old Guy Will Give It to You"
+    ]
+  },
+  "🏘️ Kakariko Village (songs and Roof Heart Piece)": {
+    "🎵 Songs": [
+      "Nocturne of Shadow: Sheik Teaches It to You After Entering Kakariko Village"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Piece 29: Use Longshot to Get on Top of the Blue Roof & Talk to the Guy"
+    ]
+  },
+  "⚰️ Kakariko Graveyard (dampe Race 2)": {
+    "❤️ Heart Pieces": [
+      "Heart Piece 30: Enter the Grave on the Far Left and Beat Dampe at His Race Again (use the Longshot)"
+    ]
+  },
+  "🏰 Hyrule Castle (secret Skulltula)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 78: (past) Get Past Guards, Go to Tree in Corner, Play Song of Storms, Fall Down Hole, Bomb Wall"
+    ]
+  },
+  "🌊 Zora's River (frog Heart Pieces)": {
+    "❤️ Heart Pieces": [
+      "Heart Piece 31: (past) Near Mid Point with Logs, Stand on Square Mark and Play Song of Storms for Frogs",
+      "Heart Piece 32: (past) After Playing All Non: Teleport Songs for the Frogs, Then Play Their Game"
+    ]
+  },
+  "🕳️ Kakariko Well (past)": {
+    "🗡️ Items": [
+      "Lense of Truth"
+    ],
+    "🗺️ Dungeon Items": [
+      "Map",
+      "Compass"
+    ],
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 79: From the Main Room, Go Into the Locked Door on the Left",
+      "Gold Skulltula 80: Use Lense of Truth in the Other Room to Get to It",
+      "Gold Skulltula 81: In the Like Like Cage"
+    ]
+  },
+  "🏰 Hyrule Castle Market (treasure Mini: Game)": {
+    "❤️ Heart Pieces": [
+      "Heart Piece 33: (past) Use the Lense of Truth to Get Thru the Treasure Chest Game (night)"
+    ]
+  },
+  "🏛️ Shadow Temple": {
+    "🗺️ Dungeon Items": [
+      "Map",
+      "Compass"
+    ],
+    "🗡️ Items": [
+      "Hoover Boots"
+    ],
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 82: In Room with Invisible Spinning Blade",
+      "Gold Skulltula 83: In a Small Alcove After the Invisible Stone Block You Move",
+      "Gold Skulltula 84: In Room with Bomb Flowers and Flaming Skull",
+      "Gold Skulltula 85: In Boat Room on Left Above Shortcut (scarecrow Song)",
+      "Gold Skulltula 86: In the Room with the Three Spinning Skulls"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Container: Defeat Bongo Dongo"
+    ]
+  },
+  "🏛️ Temple of Light (shadow Medallion)": {
+    "📖 Story Progression": [
+      "Shadow Medallion: Receive from Impa"
+    ]
+  },
+  "🏞️ Gerudo Valley (outside Fortress)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 87: Behind the Boss Guy's Tent (night)",
+      "Gold Skulltula 88: Near the Top of an Arch Sticking Out of the Rock Face, on the South Side"
+    ]
+  },
+  "🛡️ Gerudo Fortress": {
+    "📖 Story Progression": [
+      "Gerudo Membership Card: Rescue the Carpenters"
+    ],
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 89: Go to the Top of the Area, Climb Vines, Follow Highest Roof, Below You on the Wall (night)",
+      "Gold Skulltula 90: On the Far Big Target (night)"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Piece 34: You Should Be Able to See a Chest (use Longshot or Scarecrow Song)",
+      "Heart Piece 35: Score 1000pts in the Horseback Archery Mini: Game"
+    ],
+    "🗡️ Items": [
+      "Biggest Quiver (hold 50): Score 1500pts in the Horseback Archery Mini: Game"
+    ]
+  },
+  "🏜️ Haunted Wasteland": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 91: After Navigating the Wasteland, Its Down in the Stone Building"
+    ]
+  },
+  "🏜️ Desert Colossus (exterior)": {
+    "🎵 Songs": [
+      "Requiem of Spirit: Sheik Teaches You This After You Enter and Then Exit the Temple"
+    ],
+    "📖 Story Progression": [
+      "Plant Magic Bean Near Entrance to Spirit Temple"
+    ],
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 92: Plant Bugs Near Entrance to Spirit Temple",
+      "Gold Skulltula 93: (future) Use Magic Bean Plant",
+      "Gold Skulltula 94: Southern Part of the Area on a Tree Near a Dried Up Oasis (night)"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Piece 36: Use Magic Bean Plant"
+    ],
+    "🗡️ Items": [
+      "Nayru's Love: Northern Part of the Area Between Two Trees Place a Bomb"
+    ]
+  },
+  "🏛️ Spirit Temple": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 95: (past) Get on the Fence After Getting the Silver Rupees",
+      "Gold Skulltula 96: Go Thru Locked Door, Climb Up Wall, and Turn Around",
+      "Gold Skulltula 97: In the Room with the Stairs, Turn Around",
+      "Gold Skulltula 98: Play the Song of Time at the Time Block (room with Boulders)",
+      "Gold Skulltula 99: Upper Left: Hand Corner of the Snake Lady Room (scarecrow Song)"
+    ],
+    "🗡️ Items": [
+      "Bombchu",
+      "Silver Gauntlets",
+      "Mirror Shield"
+    ],
+    "🗺️ Dungeon Items": [
+      "Compass",
+      "Map"
+    ],
+    "❤️ Heart Pieces": [
+      "Heart Container: Defeat Twinrova"
+    ]
+  },
+  "🏛️ Temple of Light (spirit Medallion)": {
+    "📖 Story Progression": [
+      "Spirit Medallion: Receive from Nabooru"
+    ]
+  },
+  "🏛️ Temple of Time (light Arrow)": {
+    "🗡️ Items": [
+      "Light Arrow: Receive from Zelda"
+    ]
+  },
+  "⛲ Zora's Fountain (final Skulltula)": {
+    "🕷️ Gold Skulltulas": [
+      "Gold Skulltula 100: Move Silver Boulder (night)"
+    ]
+  },
+  "🏘️ Kakariko Village (final Skulltula Reward)": {
+    "📖 Story Progression": [
+      "Turn in Last Skulltulas for 200 Rupees"
+    ]
+  },
+  "🎯 Gerudo Training Grounds": {
+    "🗡️ Items": [
+      "Ice Arrow: Make It Thru the Dungeon"
+    ]
+  },
+  "🏰 Ganon's Castle (interior)": {
+    "🗡️ Items": [
+      "Golden Gauntlets"
+    ]
+  },
+  "🏰 Ganon's Castle: Outside": {
+    "🗡️ Items": [
+      "Defense Upgrade: Throw the Obelisk Out of the Way to See the Last Great Fairy"
+    ]
+  },
+  "🏰 Ganon's Castle (final Boss)": {
+    "📖 Story Progression": [
+      "Defeat Ganon"
+    ]
+  }
+}
