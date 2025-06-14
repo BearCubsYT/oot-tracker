@@ -43,9 +43,6 @@ function loadChecklist() {
     if (confirm("Are you sure you want to reset all progress?")) {
       localStorage.removeItem('checklistProgress');
       localStorage.removeItem('lastSection');
-      Object.keys(localStorage).forEach(k => {
-        if (k.startsWith('tracker_')) localStorage.removeItem(k);
-      });
       window.location.reload();
     }
   });
@@ -111,24 +108,7 @@ function updateGlobalProgress() {
     }
   }
 
-  // Item tracking weight (10%)
-  const itemsMax = {
-    'Deku Sticks': 30, 'Deku Nuts': 40, 'Deku Seeds': 50, 'Bombs': 40,
-    'Bombchus': 50, 'Arrows': 50, 'Rupees': 500, 'Magic Beans': 30,
-    'Wallet': 500, 'Bomb Bag': 40, 'Bullet Bag': 50, 'Quiver': 50, 'Magic Meter': 48
-  };
-
-  let itemTotal = 0;
-  let itemCurrent = 0;
-
-  for (const [item, max] of Object.entries(itemsMax)) {
-    itemTotal += max;
-    itemCurrent += parseInt(localStorage.getItem(`tracker_${item}`)) || 0;
-  }
-
-  const checklistPct = (completed / total) * 90;
-  const itemPct = (itemCurrent / itemTotal) * 10;
-  const totalPct = Math.min(100, checklistPct + itemPct);
+  const totalPct = total > 0 ? (completed / total) * 100 : 0;
 
   const fill = document.querySelector('.progress-fill');
   const text = document.querySelector('.progress-text');
